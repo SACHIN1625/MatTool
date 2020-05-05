@@ -1,4 +1,4 @@
-# MatTools 1.0.1
+# MatTool 1.0.1
 
 
 ## How to install
